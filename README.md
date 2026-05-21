@@ -1,3 +1,5 @@
+Paper: Deep Image Translation With an Affinity-Based Change Prior for Unsupervised Multimodal Change Detection ([Link](https://api.nva.unit.no/publication/0198cc785571-9be37cf1-ecb1-4abb-9e9a-eb11ecd7c0e5))
+
 # Heterogeneous_CD
 This repository contains the software developed for the project of Heterogeneous Change Detection in Remote Sensing Images.
 
